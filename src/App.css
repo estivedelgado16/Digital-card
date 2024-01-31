@@ -1,38 +1,12 @@
-.App {
-  text-align: center;
+.card {
+  width: 250px; /* Reduje el ancho de la tarjeta */
+  margin: 10px auto; /* Reduje el margen para centrar la tarjeta */
+  padding: 15px; /* Espaciado interno de la tarjeta */
+  border-radius: 8px; /* Reduje el radio de borde para esquinas redondeadas */
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1); /* Sombra para resaltar la tarjeta */
+  background-color: #6b6b6b; /* Color de fondo de la tarjeta */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.card > * {
+  margin-bottom: 10px; /* Reduje el espaciado entre elementos internos */
 }
