@@ -20,4 +20,7 @@ Install the dependencies:
 - **npm install**
 
 Run application:
-- **npm start*
+- **npm start**
+
+### Link to the Deployed Application
+https://estivedelgado16.github.io/Digital-card/
