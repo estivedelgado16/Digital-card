@@ -1,12 +1,14 @@
 .card {
-  width: 250px; /* Reduje el ancho de la tarjeta */
-  margin: 10px auto; /* Reduje el margen para centrar la tarjeta */
-  padding: 15px; /* Espaciado interno de la tarjeta */
+  display: flexblox;
+  width:  21vw; /* Reduje el ancho de la tarjeta */
+  height: 140vh;
+  margin: 50px  500px; /* Reduje el margen para centrar la tarjeta */
+  padding: 0px; /* Espaciado interno de la tarjeta */
   border-radius: 8px; /* Reduje el radio de borde para esquinas redondeadas */
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1); /* Sombra para resaltar la tarjeta */
-  background-color: #6b6b6b; /* Color de fondo de la tarjeta */
+  box-shadow: 3PX 3px 6px rgba(0, 0, 0, 0.1); /* Sombra para resaltar la tarjeta */
+  background-color: #3d3d3d; /* Color de fondo de la tarjeta */
 }
 
-.card > * {
-  margin-bottom: 10px; /* Reduje el espaciado entre elementos internos */
-}
+ 
+
+

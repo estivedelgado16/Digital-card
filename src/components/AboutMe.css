@@ -1,0 +1,26 @@
+.p-about-me{
+    display: flex;
+    width: 280px;
+    /* height: 100px; */
+    text-align:center;
+    justify-items: center;
+    color: aliceblue;
+    margin: 2px;
+}
+
+.Interests{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    justify-content:left;
+    justify-items: start;
+    text-align: center;
+    color: aliceblue;
+    margin: 30px;
+}
+
+.text-aboutme{
+    justify-content: center;
+    text-align: center;
+    color: azure;
+}

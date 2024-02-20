@@ -1,0 +1,21 @@
+.btn-SocialNetworks{
+    background-color: rgb(71, 40, 66);
+    margin: 5px;
+    border-radius:3em;
+    width: 100px;
+    height: 25px;
+ 
+
+}
+
+.btn-text-social{
+    color: aliceblue;
+    margin: 5px;
+    padding: 2px;
+   
+}
+
+.SocialNetworks{
+    padding: 0px;
+    margin: 10px;
+}

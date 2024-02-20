@@ -2,7 +2,7 @@ import React  from 'react';
 import GitHub from '../assets/github.png';
 import Twitter from '../assets/gorjeo.png';
 import Instagram from '../assets/instagram.png';
-import footer from '../styles/Footer.css'
+import './Footer.css'
 
 
 
