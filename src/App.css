@@ -1,7 +1,7 @@
 .card {
   display: flexblox;
-  width:  21vw; /* Reduje el ancho de la tarjeta */
-  height: 140vh;
+  width:  23vw; /* Reduje el ancho de la tarjeta */
+  height: 142vh;
   margin: 50px  500px; /* Reduje el margen para centrar la tarjeta */
   padding: 0px; /* Espaciado interno de la tarjeta */
   border-radius: 8px; /* Reduje el radio de borde para esquinas redondeadas */

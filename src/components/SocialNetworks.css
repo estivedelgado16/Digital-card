@@ -1,16 +1,17 @@
 .btn-SocialNetworks{
     background-color: rgb(71, 40, 66);
-    margin: 5px;
+    margin: 5px 6px;
     border-radius:3em;
     width: 100px;
     height: 25px;
- 
+    align-items: center;
+
 
 }
 
 .btn-text-social{
     color: aliceblue;
-    margin: 5px;
+    margin: 20px;
     padding: 2px;
    
 }
